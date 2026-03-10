@@ -130,8 +130,7 @@ Estrutura das pastas:
 assets/ecg_images  
 ├── N  
 ├── V  
-├── S  
-├── Q  
+├── S   
 ├── M  
 └── F  
 
@@ -143,7 +142,6 @@ assets/ecg_images
 | **V** | Ventricular | Batimento ventricular prematuro, associado a arritmias cardíacas. |
 | **S** | Supraventricular | Batimentos originados acima dos ventrículos, podendo indicar irregularidades no ritmo cardíaco. |
 | **F** | Fusional | Batimento resultante da fusão entre um batimento normal e um ventricular. |
-| **Q** | Desconhecido | Batimentos que não puderam ser classificados com precisão. |
 | **M** | Miscellaneous | Categoria que representa outros tipos de batimentos ou variações menos comuns. |
 
 ### Aplicação em Inteligência Artificial
